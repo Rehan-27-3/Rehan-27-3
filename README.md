@@ -1,14 +1,16 @@
+
+# Hi there, I'm Rehan! 👋
+
+I am an aspiring **Data Analyst** passionate about turning complex datasets into actionable business insights. I love exploring raw data, building data pipelines, and creating interactive visual stories that drive strategic decision-making.
+
+---
 ## 📊 GitHub Metrics
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=Rehan-27-3&show_icons=true&theme=tokyonight&count_private=true" alt="Rehan's GitHub Stats" height="180px"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rehan-27-3&theme=tokyonight" alt="GitHub Streak" height="180px"/>
 </p>
-# Hi there, I'm Rehan! 👋
 
-I am an aspiring **Data Analyst** passionate about turning complex datasets into actionable business insights. I love exploring raw data, building data pipelines, and creating interactive visual stories that drive strategic decision-making.
-
----
 ## 🛠️ Technical Stack
 
 ### 📊 Data Analysis & Visualization
