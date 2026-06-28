@@ -1,5 +1,43 @@
-## Hi there 👋
 
+# Hi there, I'm Rehan! 👋
+
+I am an aspiring **Data Analyst** passionate about turning complex datasets into actionable business insights. I love exploring raw data, building data pipelines, and creating interactive visual stories that drive strategic decision-making.
+
+---
+
+## 🛠️ Technical Stack
+
+### 📊 Data Analysis & Visualization
+* **Languages:** Python (Pandas, NumPy), SQL
+* **Libraries:** Matplotlib, Seaborn
+* **BI Tools:** Power BI, Microsoft Excel
+
+### ⚙️ Developer Tools & Workflow
+* **Version Control:** Git, GitHub
+* **Environments:** Jupyter Notebook,
+
+---
+
+## 🚀 Featured Projects
+
+Here are a few key data projects I've been working on:
+
+* **[Future of Employment Analysis](https://github.com/Rehan-27-3/Future-of-Employment-Analysis)** — An exploratory study into automation, workforce trends, and how emerging technologies are reshaping global job markets.
+* **[Mental Health Care EDA](https://github.com/Rehan-27-3/Mental-Health-Care-EDA)** — An exploratory data analysis uncovering demographic trends, treatment accessibility, and key patterns within healthcare data.
+* **[Automotive Sales Analysis](https://github.com/Rehan-27-3/Automotive-Sales-Analysis)** — A deep dive into sales performance, customer preferences, and revenue trends in the automotive industry.
+* **[Dairy Dataset Analysis](https://github.com/Rehan-27-3/Dairy-Dataset-Analysis)** — Processing and analyzing production and supply chain metrics to optimize operational efficiency.
+
+---
+
+## 📈 What I'm Up To Right Now
+* 🧠 Deepening my skills in advanced DAX functions and dashboard optimization in **Power BI**.
+* 🐍 Implementing custom Python logic and algorithmic data structures for cleaner data manipulation.
+* 🇪🇺 Researching advanced academic opportunities in Data Analytics for the upcoming intake cycle.
+
+---
+
+## 📫 Let's Connect!
+* **GitHub:** You're already here! Feel free to explore my repos and leave a ⭐️ if you like my work.
 <!--
 **Rehan-27-3/Rehan-27-3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
