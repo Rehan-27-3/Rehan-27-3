@@ -1,22 +1,23 @@
-![Anurag's GitHub stats](https://capsule-render.vercel.app/type=waving&color=auto&height=200&section=header&text=Rehan%20|%20Data%20Analytics&fontSize=40&animation=twinkling)
+## 📊 GitHub Metrics
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=Rehan-27-3&show_icons=true&theme=tokyonight&count_private=true" alt="Rehan's GitHub Stats" height="180px"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rehan-27-3&theme=tokyonight" alt="GitHub Streak" height="180px"/>
+</p>
 # Hi there, I'm Rehan! 👋
 
 I am an aspiring **Data Analyst** passionate about turning complex datasets into actionable business insights. I love exploring raw data, building data pipelines, and creating interactive visual stories that drive strategic decision-making.
 
 ---
-
 ## 🛠️ Technical Stack
 
 ### 📊 Data Analysis & Visualization
-* **Languages:** Python (Pandas, NumPy), SQL
-* **Libraries:** Matplotlib, Seaborn
-* **BI Tools:** Power BI, Microsoft Excel
-
-### ⚙️ Developer Tools & Workflow
-* **Version Control:** Git, GitHub
-* **Environments:** Jupyter Notebook,
-
----
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/sql-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ## 🚀 Featured Projects
 
