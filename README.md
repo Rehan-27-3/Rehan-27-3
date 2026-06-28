@@ -1,4 +1,4 @@
-
+![Anurag's GitHub stats](https://capsule-render.vercel.app/type=waving&color=auto&height=200&section=header&text=Rehan%20|%20Data%20Analytics&fontSize=40&animation=twinkling)
 # Hi there, I'm Rehan! 👋
 
 I am an aspiring **Data Analyst** passionate about turning complex datasets into actionable business insights. I love exploring raw data, building data pipelines, and creating interactive visual stories that drive strategic decision-making.
